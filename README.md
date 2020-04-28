@@ -9,12 +9,13 @@ Remember that programmers start counting from zero! The program is allowed to ma
 **Emma**
 **Alex**
 **Mary**
-Alex
+****
+Tom
 ```
 
 ```plaintext
 **Emma**
 **Alex**
 **Mary**
-Mary
+Emma
 ```
